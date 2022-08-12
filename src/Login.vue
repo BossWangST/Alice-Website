@@ -212,8 +212,8 @@ export default {
       captcha: undefined,
       loginMode: "userpwd",
       loading: false,
-      accountSite: "bilibili",
-      accountSiteLabel: "哔哩哔哩"
+      accountSite: "douyu",
+      accountSiteLabel: "斗鱼TV"
     };
   },
   methods: {

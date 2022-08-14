@@ -20,11 +20,13 @@
       style="border:none"
       class="el-icon-info"
     >
-      如需添加、删除频道请联系我的QQ：1970324754
+      如需帮助，请在使用邮件咨询：bosswang1226@163.com
+      <!--
       <a
         href="tencent://groupwpa/?subcmd=all&param=7B2267726F757055696E223A3933363631383137322C2274696D655374616D70223A313534323934373835347D0A"
         >936618172</a
       >
+      -->
     </el-tag>
     <el-input
       style="float:right;width:280px;"

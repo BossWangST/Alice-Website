@@ -133,6 +133,8 @@
             <div
               style="position: absolute; top: 17px; right: 26px;"
             >Alice Website © 2018 - 2019 nekoteaparty</div>
+            <div
+            style="position: absolute; top: 35px; right:26px;">Renewed By BossWangST 2022</div>
           </el-footer>
         </el-main>
       </el-container>

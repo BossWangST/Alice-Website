@@ -20,7 +20,7 @@
       style="border:none"
       class="el-icon-info"
     >
-      如需添加、删除频道请联系管理员，QQ群：
+      如需添加、删除频道请联系我的QQ：1970324754
       <a
         href="tencent://groupwpa/?subcmd=all&param=7B2267726F757055696E223A3933363631383137322C2274696D655374616D70223A313534323934373835347D0A"
         >936618172</a
